@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea422ee8-d208-4fca-a1cd-fc1328b1e8a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16763afb15126e5c5027b068eb8b438692b8707a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59b8b1f41ba4a81f893d0ed8ddd65dd9c171564d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6be7c803d2c107ca70ba0175e65a50e59ffc819e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99852bf9dc4654cdb757998feeff9373d5094f1a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d34f24a2d0e42b076063ee944ee02c36eb20c3f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverStored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/NewFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/exception/StepErrorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/exception/WebDriverException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/NewFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManagerFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManagerFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverManagerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/DriverType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/browser/ChromeDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thainguyen/core/config/driver/browser/ChromeDriverManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/thainguyen/core/config/driver/DriverFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/thainguyen/core/config/driver/DriverFactoryTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="ea422ee8-d208-4fca-a1cd-fc1328b1e8a4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +11,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/browser/ChromeDriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+              <folding>
+                <element signature="e#1831#1832#0" expanded="true" />
+                <element signature="e#1904#1905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,25 +95,17 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ChromeDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java" />
         <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/SeleniumDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/NewFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/NewFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/browser/ChromeDriverManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/WebDriverException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverStored.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/exception/StepErrorException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java" />
       </list>
     </option>
   </component>
@@ -97,10 +132,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2072" />
-    <option name="y" value="62" />
-    <option name="width" value="1778" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="97" />
+    <option name="y" value="-8" />
+    <option name="width" value="1831" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
@@ -108,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,65 +165,52 @@
             <path>
               <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
               <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
               <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
               <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="thainguyen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
               <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="thainguyen" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
               <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="thainguyen" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstfw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="thainguyen" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Skype/AutoaMinh/autofw/java/TA" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -206,12 +229,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.NewFactoryTest.testFireFox">
+  <component name="RunManager" selected="TestNG.DriverFactoryTest.launchGoogleTest">
     <configuration name="DriverFactoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thainguyen.core.exception.*" />
+          <option name="PATTERN" value="thainguyen.core.config.driver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,67 +251,13 @@
       <module name="AFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thainguyen.core.exception.*" />
+          <option name="PATTERN" value="thainguyen.core.config.driver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="thainguyen.core.config.driver" />
       <option name="MAIN_CLASS_NAME" value="thainguyen.core.config.driver.DriverFactoryTest" />
       <option name="METHOD_NAME" value="launchGoogleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverFactoryTest.launchGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstfw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thainguyen.core.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thainguyen.core.config.driver" />
-      <option name="MAIN_CLASS_NAME" value="thainguyen.core.config.driver.DriverFactoryTest" />
-      <option name="METHOD_NAME" value="launchGoogleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewFactoryTest.testChrome" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstfw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thainguyen.core.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thainguyen.core.config.driver" />
-      <option name="MAIN_CLASS_NAME" value="thainguyen.core.config.driver.NewFactoryTest" />
-      <option name="METHOD_NAME" value="testChrome" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewFactoryTest.testFireFox" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstfw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thainguyen.core.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thainguyen.core.config.driver" />
-      <option name="MAIN_CLASS_NAME" value="thainguyen.core.config.driver.NewFactoryTest" />
-      <option name="METHOD_NAME" value="testFireFox" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -298,9 +267,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.NewFactoryTest.testFireFox" />
-        <item itemvalue="TestNG.NewFactoryTest.testChrome" />
-        <item itemvalue="TestNG.DriverFactoryTest.launchGoogleTest (1)" />
         <item itemvalue="TestNG.DriverFactoryTest.launchGoogleTest" />
         <item itemvalue="TestNG.DriverFactoryTest" />
       </list>
@@ -316,99 +282,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574135917538</updated>
-      <workItem from="1574395486622" duration="9085000" />
-      <workItem from="1574910421068" duration="6245000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DriverFactoryTest_launchGoogleTest - 2019.11.21 at 22h 32m 19s.xml">
+    <history-entry file="DriverFactoryTest_launchGoogleTest - 2019.11.21 at 21h 54m 17s.xml">
       <configuration name="DriverFactoryTest.launchGoogleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DriverFactoryTest_launchGoogleTest - 2019.11.21 at 22h 33m 18s.xml">
+    <history-entry file="DriverFactoryTest_launchGoogleTest - 2019.11.21 at 21h 55m 26s.xml">
       <configuration name="DriverFactoryTest.launchGoogleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DriverFactoryTest_launchGoogleTest_(1) - 2019.11.21 at 23h 08m 26s.xml">
-      <configuration name="DriverFactoryTest.launchGoogleTest (1)" configurationId="TestNG" />
+    <history-entry file="DriverFactoryTest - 2019.11.21 at 21h 55m 38s.xml">
+      <configuration name="DriverFactoryTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DriverFactoryTest_launchGoogleTest_(1) - 2019.11.21 at 23h 24m 43s.xml">
-      <configuration name="DriverFactoryTest.launchGoogleTest (1)" configurationId="TestNG" />
+    <history-entry file="DriverFactoryTest - 2019.11.21 at 21h 57m 32s.xml">
+      <configuration name="DriverFactoryTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="NewFactoryTest_testChrome - 2019.11.22 at 03h 01m 47s.xml">
-      <configuration name="NewFactoryTest.testChrome" configurationId="TestNG" />
+    <history-entry file="DriverFactoryTest - 2019.11.21 at 21h 58m 55s.xml">
+      <configuration name="DriverFactoryTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="NewFactoryTest_testChrome - 2019.11.22 at 03h 02m 52s.xml">
-      <configuration name="NewFactoryTest.testChrome" configurationId="TestNG" />
+    <history-entry file="DriverFactoryTest_launchGoogleTest - 2019.11.21 at 21h 59m 41s.xml">
+      <configuration name="DriverFactoryTest.launchGoogleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="NewFactoryTest_testFireFox - 2019.11.22 at 03h 21m 52s.xml">
-      <configuration name="NewFactoryTest.testFireFox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewFactoryTest_testChrome - 2019.11.22 at 03h 22m 42s.xml">
-      <configuration name="NewFactoryTest.testChrome" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewFactoryTest_testFireFox - 2019.11.22 at 03h 24m 21s.xml">
-      <configuration name="NewFactoryTest.testFireFox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewFactoryTest_testFireFox - 2019.11.22 at 03h 25m 16s.xml">
-      <configuration name="NewFactoryTest.testFireFox" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2072" y="62" width="1778" height="1096" extended-state="1" />
+    <frame x="97" y="-8" width="1831" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23341094" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29700735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32917964" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08411215" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26168224" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32917964" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.32933578" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297572" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24957651" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32919255" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32942432" />
-      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/firstfw$NewFactoryTest_testChrome.ic" NAME="NewFactoryTest.testChrome Coverage Results" MODIFIED="1574409760116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>thainguyen.core.config.driver.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/firstfw$DriverFactoryTest_launchGoogleTest.ic" NAME="DriverFactoryTest.launchGoogleTest Coverage Results" MODIFIED="1574391249661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>thainguyen.core.config.driver.*</FILTER>
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ChromeDriver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -416,18 +359,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/SeleniumDriver.java" />
-    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/MutableCapabilities.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/SeleniumDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="46" column="29" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="29" />
+        <state relative-caret-position="187">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="238">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="e#1831#1832#0" expanded="true" />
             <element signature="e#1904#1905#0" expanded="true" />
@@ -435,91 +398,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/MutableCapabilities.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/NewFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/NewFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/thainguyen/core/config/driver/DriverFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/browser/ChromeDriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="289">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverStored.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/exception/WebDriverException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/exception/StepErrorException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#179#187#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thainguyen/core/config/driver/DriverManagerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -573,7 +479,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>firstfw</last-edited>
+          <last-edited>AFramework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -597,17 +503,6 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

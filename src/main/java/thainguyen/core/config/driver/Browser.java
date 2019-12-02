@@ -3,5 +3,7 @@ package thainguyen.core.config.driver;
 public enum DriverType {
     CHROME,
     FIREFOX,
-    IE;
+    IE,
+    SAFARI,
+    PHANTOM;
 }

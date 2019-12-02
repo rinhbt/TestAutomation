@@ -1,6 +1,6 @@
 package thainguyen.core.config.driver;
 
-public enum DriverType {
+public enum Browser {
     CHROME,
     FIREFOX,
     IE,

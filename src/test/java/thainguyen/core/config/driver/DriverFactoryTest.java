@@ -12,7 +12,7 @@ public class DriverFactoryTest {
 
     @BeforeTest
     public void beforeTest(){
-        driverManager = DriverManagerFactory.getManager(DriverType.CHROME);
+        driverManager = DriverManagerFactory.getManager(Browser.CHROME);
     }
 
     @BeforeMethod

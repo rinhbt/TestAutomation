@@ -26,3 +26,8 @@ hs_err_pid*
 #additional files
 .idea/
 target/
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/

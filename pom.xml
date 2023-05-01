@@ -10,7 +10,7 @@
 
     <properties>
         <seleniumJavaVersion>3.141.59</seleniumJavaVersion>
-        <testNGVersion>7.0.0</testNGVersion>
+        <testNGVersion>7.7.0</testNGVersion>
 
     </properties>
 
